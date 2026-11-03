@@ -1,6 +1,14 @@
 {
-  "handle": "@charaing",
-  "avatar": "char",
+  "handle": "@구본윤",
+  "avatar": "9bonnn",
   "bio": "내가 만든 사이트 전부 여기 있음",
-  "links": []
+  "links": [
+    {
+      "e": "",
+      "t": "명상",
+      "d": "명상하는거",
+      "c": "게임",
+      "u": "https://charaing.github.io/goyo-meditation/"
+    }
+  ]
 }
